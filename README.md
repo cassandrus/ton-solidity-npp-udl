@@ -6,5 +6,5 @@ This is syntax highlighting for [TON dialect](https://github.com/tonlabs/TON-Sol
 
 1. Clone repository or download zip and extract
 2. Open [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus)
-3. Language menu > Define your language... > Import > Choose the [XML file](TON_Solidity_v2.xml)
+3. Language menu > Define your language... > Import > Choose the [XML file](TON_Solidity.xml)
 4. Open your .sol files again
