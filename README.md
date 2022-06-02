@@ -1,6 +1,6 @@
-# TON Solidity Language UDL Syntax for Notepad++
+# Everscale Solidity Language UDL Syntax File for Notepad++
 
-This is syntax highlighting for [TON dialect](https://github.com/tonlabs/TON-Solidity-Compiler/blob/master/API.md) of [Solidity](https://docs.soliditylang.org/en/v0.7.4/) made for [Free TON](https://freeton.org) community.
+This is syntax highlighting for [EVER dialect](https://github.com/tonlabs/TON-Solidity-Compiler/blob/master/API.md) of [Solidity](https://docs.soliditylang.org/en/v0.7.4/) made for [Free TON](https://freeton.org) community.
 
 ## How to import
 
